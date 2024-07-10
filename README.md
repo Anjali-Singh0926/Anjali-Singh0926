@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anjali-Singh0926
 - 👀 I’m interested in coding skills
 - 🌱 I’m currently doing my B.tech
-- 📫 you can mail me on my gmail
+- 📫 just drop a mail to contact 
 - 😄 amy
 - ⚡ i'm a music lover 
 
