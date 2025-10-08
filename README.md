@@ -10,14 +10,15 @@ My passion lies in the intersection of **data** and **intelligence** — using A
 - **Data Visualization**: telling stories through charts, dashboards (Power BI, matplotlib, etc.)
 
 ### 🛠️ Tools & Technologies
-- **Languages**: Python, JavaScript, SQL  
-- **Libraries / Frameworks**: NumPy, Pandas, scikit-learn, TensorFlow / PyTorch, Matplotlib, Seaborn, maybe Hugging Face  
-- **Visualization / BI Tools**: Power BI, Tableau, Plotly  
-- **Others**: Git, APIs, Jupyter Notebooks, VS Code
+- **Languages**: Python, R, SQL  
+- **Libraries / Frameworks**: NumPy, Pandas, scikit-learn, TensorFlow / PyTorch, Matplotlib, Seaborn
+- **Visualization / BI Tools**: Power BI, Plotly  
+- **Others**: Git, APIs, Jupyter Notebooks, Google Colab, VS Code
 
 ### 📚 What I'm Learning / Working On
 - Deep Learning architectures and transformers  
-- Generative AI / prompt engineering  
+- Generative AI / prompt engineering
+- Frameworks like Langchain, LangGraph, Hugging Face
 - Real-world projects combining AI + analytics  
 - Improving visual storytelling with complex datasets  
 
