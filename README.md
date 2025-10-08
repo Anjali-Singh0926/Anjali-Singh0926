@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Anjali-Singh0926
-- 👀 I’m interested in coding skills
-- 🌱 I’m currently doing my B.tech
-- 📫 just drop a mail to contact 
-- 😄 amy
-- ⚡ i'm a music lover 
+Hi, I'm Anjali Singh, a B.Tech student specializing in Artificial Intelligence & Machine Learning at JB Institute of Technology, Dehradun (Batch 2026).
 
-<!---
-Anjali-Singh0926/Anjali-Singh0926 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My goal is to become a Data Scientist or Data Analyst, using data-driven insights to solve real-world problems.
+
+I’m deeply interested in Artificial Intelligence, Generative AI, Machine Learning, and Data Visualization — I love exploring how intelligent systems can understand and create data in new ways.
+
+Currently, I’m learning more about Deep Learning, Natural Language Processing, and data analytics tools, such as Power BI and Python libraries.
+
+I enjoy working on projects that combine data, AI, and creativity to build meaningful solutions.
+
+Feel free to connect with me: anjalisingh4mnorth@gmail.com
